@@ -25,6 +25,7 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 - [[NPCs/Marlene\|Marlene]]
 - Madame [[NPCs/Rosene\|Rosene]]
 - [[NPCs/Selûne\|Selûne]]
+- [[NPCs/Unnamed Green Dragon\|Unnamed Green Dragon]]
 
 # Fellowships
 - The [[Fellowships/Ember Knights\|Ember Knights]]
@@ -43,5 +44,7 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 - [[Locations/Neverwinter\|Neverwinter]]
 - [[Locations/Neverwinter Woods\|Neverwinter Woods]]
 - [[Locations/Prime Material Plane\|Prime Material Plane]]
+- [[Locations/Realmspace\|Realmspace]]
+- [[Locations/Sword Coast\|Sword Coast]]
 - [[Locations/Toril\|Toril]]
 - [[Locations/Waterdeep\|Waterdeep]]
