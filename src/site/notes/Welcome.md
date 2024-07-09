@@ -42,6 +42,7 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 - [[Locations/Lars' Smithy\|Lars' Smithy]]
 - [[Locations/Moonstone Mask\|Moonstone Mask]]
 - [[Locations/Neverwinter\|Neverwinter]]
+- [[Locations/Neverwinter Academy\|Neverwinter Academy]]
 - [[Locations/Neverwinter Woods\|Neverwinter Woods]]
 - [[Locations/Prime Material Plane\|Prime Material Plane]]
 - [[Locations/Realmspace\|Realmspace]]
