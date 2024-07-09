@@ -2,15 +2,13 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-# Welcome
-
 The brave **Adventures of the Ember Knights** are chronicled within.
 
 # Characters
-- [[Characters/Bughuda Qasai\|Bughuda Qasai]]
+- [[Characters/Bughuda “Huda” Qasai\|Bughuda “Huda” Qasai]]
 - [[Characters/Luard Starwalker\|Luard Starwalker]]
 - [[Characters/Moghul Khan\|Moghul Khan]]
-- [[Characters/Torebrul Drakechest\|Torebrul Drakechest]]
+- [[Characters/Torebrul “Tor” Drakechest\|Torebrul “Tor” Drakechest]]
 - [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]]
 
 # Chapters
