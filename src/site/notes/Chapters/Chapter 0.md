@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/chapters/chapter-0/"}
 ---
 
+# The Ember Knights Origins
+
 Our intrepid adventurers, [[Characters/Bughuda “Huda” Qasai\|Huda]], [[Characters/Luard Starwalker\|Luard]], [[Characters/Moghul Khan\|Moghul]], and [[Characters/Torebrul “Tor” Drakechest\|Tor]], arrived in the bustling city of [[Locations/Neverwinter\|Neverwinter]], seeking respite in the [[Locations/Blacklake District\|Blacklake District]]. Despite their efforts, they couldn't find what they were looking for, so they decided to wait for their friend, [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]], at the [[Locations/Driftwood Tavern\|Driftwood Tavern]]. To occupy their time, they took on jobs as the district's [[Fellowships/Ratcatchers\|Ratcatchers]], completing various odd tasks for the city officials.
 
 One such day, they were assigned to clean the sewers. After a grueling and filthy day, they returned to the Driftwood Tavern in the evening, weary but accomplished. Seeking to wash off the grime, they headed to the small bathhouse at the back. In the men’s section, Luard and Tor struck up a conversation, discovering they were both waiting for Gundren Rockseeker. On the women's side, Huda overheard their conversation and realized her recent colleagues were also connected to Gundren.
