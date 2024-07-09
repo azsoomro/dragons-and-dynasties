@@ -13,11 +13,11 @@
 
 ### Introduction
 
-In the rugged hills of [[Cormyr\|Cormyr]], where dwarven clans and elven enclaves rarely intersect, Torebrul “Tor” Drakechest emerged—an improbable fusion of two worlds. His existence defied the natural order, yet fate had woven his lineage with threads of both dwarf and elf.
+In the rugged hills of [[Locations/Cormyr\|Cormyr]], where dwarven clans and elven enclaves rarely intersect, Torebrul “Tor” Drakechest emerged—an improbable fusion of two worlds. His existence defied the natural order, yet fate had woven his lineage with threads of both dwarf and elf.
 
 ### Chapter 1: The Forbidden Love
 
-[[Gimli\|Gimli]], a devoted acolyte of [[Selûne\|Selûne]], met [[Galadriel\|Galadriel]] during a clandestine ceremony. Their attraction transcended boundaries—dwarf and elf, Selûne’s servant and noblewoman. Their love blossomed in secrecy until Galadriel discovered her pregnancy. She met Gimli one final time, delivering Tor into his arms with a mixture of pain and defiance. Galadriel wanted no part in this forbidden union.
+[[NPCs/Gimli\|Gimli]], a devoted acolyte of [[NPCs/Selûne\|Selûne]], met [[NPCs/Galadriel\|Galadriel]] during a clandestine ceremony. Their attraction transcended boundaries—dwarf and elf, Selûne’s servant and noblewoman. Their love blossomed in secrecy until Galadriel discovered her pregnancy. She met Gimli one final time, delivering Tor into his arms with a mixture of pain and defiance. Galadriel wanted no part in this forbidden union.
 
 ### Chapter 2: The Crimson Mark
 
@@ -33,6 +33,6 @@ Gimli remained Tor’s silent benefactor, ensuring his upbringing in a distant C
 
 ### Chapter 5: Gundren’s Call
 
-[[NPCs/Gundren Rockseeker\|Gundren Rockseeker]], a cheerful dwarf who saw beyond Tor’s hybrid nature, beckoned from [[Neverwinter\|Neverwinter]]. Urgency tinged his correspondence. Tor packed provisions, leaving behind the familiar hills. Yet, as days passed without word from Gundren, uncertainty gnawed at him. What awaited him in the bustling city? And would it finally unveil the truth about his mother?
+[[NPCs/Gundren Rockseeker\|Gundren Rockseeker]], a cheerful dwarf who saw beyond Tor’s hybrid nature, beckoned from [[Locations/Neverwinter\|Neverwinter]]. Urgency tinged his correspondence. Tor packed provisions, leaving behind the familiar hills. Yet, as days passed without word from Gundren, uncertainty gnawed at him. What awaited him in the bustling city? And would it finally unveil the truth about his mother?
 
 Tor’s journey had just begun—a quest fueled by dual heritage, Selûne’s grace, and the promise of answers. As he stepped into Neverwinter’s bustling streets, he carried the weight of two worlds upon his shoulders, ready to unravel the enigma of Galadriel and embrace his destiny.
