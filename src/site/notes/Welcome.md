@@ -33,6 +33,7 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 - [[Fellowships/Ratcatchers\|Ratcatchers]]
 
 # Locations
+- [[Locations/Beggar's Nest\|Beggar's Nest]]
 - [[Locations/Blacklake District\|Blacklake District]]
 - [[Locations/Cormyr\|Cormyr]]
 - [[Locations/Delian's Tomb\|Delian's Tomb]]
