@@ -37,6 +37,7 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 - [[Locations/Cormyr\|Cormyr]]
 - [[Locations/Delian's Tomb\|Delian's Tomb]]
 - [[Locations/Driftwood Tavern\|Driftwood Tavern]]
+- [[Locations/Emp'rss Marqet\|Emp'rss Marqet]]
 - [[Locations/Estadul\|Estadul]]
 - [[Locations/Faerûn\|Faerûn]]
 - [[Locations/Lars' Smithy\|Lars' Smithy]]
