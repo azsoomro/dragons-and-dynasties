@@ -10,10 +10,18 @@ With their curiosity piqued, they gathered to share their stories. Despite the w
 
 But our heroes were moved by his plight and resolved to help. They followed him to his home, where kobold tracks led them into the woods. Their journey took them to [[Locations/Delian's Tomb\|Delian's Tomb]], where they encountered kobolds worshipping [[NPCs/Maglubiyet\|Maglubiyet]], plotting to sacrifice the child.
 
+![Kobold.webp|Kobold](/img/user/Assets/Kobold.webp)
+
 With swift and stealthy precision, they dispatched the kobolds at the gates and ventured inside. In the sacrificial chamber, they made quick work of the remaining kobolds. As Huda approached the man standing there, he looked at her in terror and uttered the word **"Asha'bellanar!"** To their shock, he transformed into a [[NPCs/Unnamed Green Dragon\|green dragon]] and burst through the roof, escaping into the night sky.
+
+![Goblin gathering.jpg|Goblin gathering](/img/user/Assets/Goblin%20gathering.jpg)
 
 Left to ponder this unexpected turn of events, they tended to their wounds and rescued the girl. After cleaning the tomb, they found a chest, which they offered to Delian's statue. Their act of reverence granted them the status of [[Fellowships/Knights of the Delian Order\|Knights of the Delian Order]], leading them to Delian’s hidden treasure.
 
-Triumphant, they returned to [[Locations/Lars' Smithy\|Lars' Smithy]] with the rescued child, reuniting Bess with her grateful father. As heroes, they were welcomed by the city guard and awarded 5 silver for each kobold ear. Lars further awarded 5 gold to each adventurer for saving his daughter. Taking their rewards, they retired to Madam [[NPCs/Rosene\|Rosene]]'s Driftwood Tavern to celebrate. Amidst their victory, they couldn't shake the mystery of the dragon's sudden departure and the meaning of "Asha'bellanar." Learning from Luard and Tor, the words from the Draconic language loosely translate into "The Ember Sovereign" in Common language. They decided that they work well together and, since Gundren has a job for them, they might need to stick together for a while. They decided to name themself the the [[Fellowships/Ember Knights\|Ember Knights]].
+Triumphant, they returned to [[Locations/Lars' Smithy\|Lars' Smithy]] with the rescued child, reuniting Bess with her grateful father. As heroes, they were welcomed by the city guard and awarded 5 silver for each kobold ear. Lars further awarded 5 gold to each adventurer for saving his daughter.
+
+![Baron of Kilkirth bounty.png|Baron of Kilkirth bounty](/img/user/Assets/Baron%20of%20Kilkirth%20bounty.png)
+
+Taking their rewards, they retired to Madam [[NPCs/Rosene\|Rosene]]'s Driftwood Tavern to celebrate. Amidst their victory, they couldn't shake the mystery of the dragon's sudden departure and the meaning of "Asha'bellanar." Learning from Luard and Tor, the words from the Draconic language loosely translate into "The Ember Sovereign" in Common language. They decided that they work well together and, since Gundren has a job for them, they might need to stick together for a while. They decided to name themselves the [[Fellowships/Ember Knights\|Ember Knights]].
 
 Their contemplation was abruptly ended when Gundren Rockseeker burst into the tavern, exclaiming, "There you are! I have been waiting for you at the [[Locations/Moonstone Mask\|Moonstone Mask]] for two days!"
