@@ -17,8 +17,6 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 # NPCs
 - [[NPCs/Bess\|Bess]]
 - [[NPCs/Delius\|Delius]]
-- [[NPCs/Galadriel\|Galadriel]]
-- [[NPCs/Gimli\|Gimli]]
 - [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]]
 - [[NPCs/Lars\|Lars]]
 - [[NPCs/Maglubiyet\|Maglubiyet]]
@@ -35,7 +33,6 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 # Locations
 - [[Locations/Beggar's Nest\|Beggar's Nest]]
 - [[Locations/Blacklake District\|Blacklake District]]
-- [[Locations/Cormyr\|Cormyr]]
 - [[Locations/Delian's Tomb\|Delian's Tomb]]
 - [[Locations/Driftwood Tavern\|Driftwood Tavern]]
 - [[Locations/Emp'rss Marqet\|Emp'rss Marqet]]
