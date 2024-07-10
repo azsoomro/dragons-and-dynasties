@@ -16,10 +16,10 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 
 # NPCs
 - Madame [[NPCs/Rosene\|Rosene]] and [[NPCs/Marlene\|Marlene]] at [[Locations/Driftwood Tavern\|Driftwood Tavern]], [[Locations/Blacklake District\|Blacklake District]], [[Locations/Neverwinter\|Neverwinter]]
-- [[NPCs/Lars\|Lars]] and [[NPCs/Bess\|Bess]] at [[Locations/Lars' Smithy\|Lars' Smithy]], [[Locations/Neverwinter Woods\|Neverwinter Woods]]
+- [[NPCs/Lars\|Lars]] and [[NPCs/Bess\|Bess]] at [[Locations/Lars' Smithy\|Lars' Smithy]], [[Locations/Neverwinter Wood\|Neverwinter Wood]]
 - [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]] at [[Locations/Moonstone Mask\|Moonstone Mask]], [[Locations/Neverwinter\|Neverwinter]]
-- [[NPCs/Delius\|Delius]], knight interred at [[Locations/Delian's Tomb\|Delian's Tomb]], [[Locations/Neverwinter Woods\|Neverwinter Woods]], [[Locations/Neverwinter\|Neverwinter]]
-- [[NPCs/Unnamed Green Dragon\|Unnamed Green Dragon]] encountered at [[Locations/Delian's Tomb\|Delian's Tomb]], [[Locations/Neverwinter Woods\|Neverwinter Woods]], [[Locations/Neverwinter\|Neverwinter]]
+- [[NPCs/Delius\|Delius]], knight interred at [[Locations/Delian's Tomb\|Delian's Tomb]], [[Locations/Neverwinter Wood\|Neverwinter Wood]], [[Locations/Neverwinter\|Neverwinter]]
+- [[NPCs/Unnamed Green Dragon\|Unnamed Green Dragon]] encountered at [[Locations/Delian's Tomb\|Delian's Tomb]], [[Locations/Neverwinter Wood\|Neverwinter Wood]], [[Locations/Neverwinter\|Neverwinter]]
 - Deities
 	- [[NPCs/Selûne\|Selûne]]
 	- [[NPCs/Maglubiyet\|Maglubiyet]]
@@ -34,7 +34,7 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 	- [[Locations/Neverwinter\|Neverwinter]]
 		- [[Locations/Blacklake District\|Blacklake District]]
 			- [[Locations/Driftwood Tavern\|Driftwood Tavern]]
-		- [[Locations/Neverwinter Woods\|Neverwinter Woods]]
+		- [[Locations/Neverwinter Wood\|Neverwinter Wood]]
 			- [[Locations/Lars' Smithy\|Lars' Smithy]]
 			- [[Locations/Delian's Tomb\|Delian's Tomb]]
 		- UNNAMED district
