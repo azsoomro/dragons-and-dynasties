@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/np-cs/maglubiyet/"}
 ---
 
-An evil deity.
+An evil goblinoid deity of war. His symbol is a bloody ax.
+

@@ -3,7 +3,7 @@
 ---
 
 
-An Orcish kingdom, home to [[Characters/Bughuda “Huda” Qasai\|Bughuda “Huda” Qasai]].
+An orc kingdom, home to [[Characters/Bughuda “Huda” Qasai\|Bughuda “Huda” Qasai]].
 
 ![Emp'rss Marqet.jpeg|Emp'rss Marqet](/img/user/Assets/Emp'rss%20Marqet.jpeg)
 

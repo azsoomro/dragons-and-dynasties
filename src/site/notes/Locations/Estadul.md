@@ -3,4 +3,3 @@
 ---
 
 A dwarven kingdom to the west of [[Locations/Cormyr\|Cormyr]].
-

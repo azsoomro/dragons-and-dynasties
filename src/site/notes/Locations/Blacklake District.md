@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/locations/blacklake-district/"}
 ---
 
-A district in the city of [[Locations/Neverwinter\|Neverwinter]].
+A district located in the northeast of the city of [[Locations/Neverwinter\|Neverwinter]].
