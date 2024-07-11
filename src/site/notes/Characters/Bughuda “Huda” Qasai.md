@@ -9,7 +9,7 @@
 
 She owns an ornate set of knives with intricate carvings.
 
-![Bughuda Qasai's knife set.webp|set of knives](/img/user/Assets/Bughuda%20Qasai's%20knife%20set.webp)
+![Huda's knife set.webp|set of knives](/img/user/Assets/Huda's%20knife%20set.webp)
 
 **Race:** Half-Orc
 **Class:** Barbarian 1

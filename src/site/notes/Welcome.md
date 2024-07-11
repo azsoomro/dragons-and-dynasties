@@ -15,7 +15,7 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 - [[Chapters/Chapter 0\|Chapter 0]]: The Ember Knights Origins
 
 # NPCs
-- Madame [[NPCs/Rosene\|Rosene]] and [[NPCs/Marlene\|Marlene]] at [[Locations/Driftwood Tavern\|Driftwood Tavern]], [[Locations/Blacklake District\|Blacklake District]], [[Locations/Neverwinter\|Neverwinter]]
+- [[NPCs/Rosene\|Madame Rosene]] and [[NPCs/Marlene\|Marlene]] at [[Locations/Driftwood Tavern\|Driftwood Tavern]], [[Locations/Blacklake District\|Blacklake District]], [[Locations/Neverwinter\|Neverwinter]]
 - [[NPCs/Lars\|Lars]] and [[NPCs/Bess\|Bess]] at [[Locations/Lars' Smithy\|Lars' Smithy]], [[Locations/Neverwinter Wood\|Neverwinter Wood]]
 - [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]] at [[Locations/Moonstone Mask\|Moonstone Mask]], [[Locations/Neverwinter\|Neverwinter]]
 - [[NPCs/Delius\|Delius]], knight interred at [[Locations/Delian's Tomb\|Delian's Tomb]], [[Locations/Neverwinter Wood\|Neverwinter Wood]], [[Locations/Neverwinter\|Neverwinter]]

@@ -3,4 +3,3 @@
 ---
 
 An evil goblinoid deity of war. His symbol is a bloody ax.
-
