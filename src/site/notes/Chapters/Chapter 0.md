@@ -14,7 +14,7 @@ But our heroes were moved by his plight and resolved to help. They followed him 
 
 ![Kobold.webp|Kobold](/img/user/Assets/Kobold.webp)
 
-With swift and stealthy precision, they dispatched the kobolds at the gates and ventured inside. _In the sacrificial chamber, they were joined by [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]], who was hunting in the nearby forests. With his help,_ they made quick work of the remaining kobolds. As Huda approached the shaman standing there, he looked at her in terror and uttered the word **"Asha'bellanar!"** To their shock, he transformed into a [[NPCs/Unnamed Green Dragon\|green dragon]] and burst through the roof, escaping into the night sky.
+With swift and stealthy precision, they dispatched the kobolds at the gates and ventured inside. _In the sacrificial chamber, they were joined by [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]], who was hunting in the nearby forests. With his help,_ they made quick work of the remaining kobolds. As [[Characters/Bughuda “Huda” Qasai\|Huda]] approached the shaman standing there, he looked at her in terror and uttered the word **"Asha'bellanar!"** To their shock, he transformed into a [[NPCs/Unnamed Green Dragon\|green dragon]] and burst through the roof, escaping into the night sky.
 
 ![Goblin gathering.jpg|Goblin gathering](/img/user/Assets/Goblin%20gathering.jpg)
 
