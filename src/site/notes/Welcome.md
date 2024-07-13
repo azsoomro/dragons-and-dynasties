@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-The brave **Adventures of the Ember Knights** are chronicled within.
+The brave **ADVENTURES OF THE EMBER KNIGHTS** are chronicled within.
 
 # Characters
 - [[Characters/Bughuda “Huda” Qasai\|Bughuda “Huda” Qasai]]
@@ -14,12 +14,17 @@ The brave **Adventures of the Ember Knights** are chronicled within.
 # Chapters
 - [[Chapters/Chapter 0\|Chapter 0]]: The Ember Knights Origins
 
+# Quests
+- [x] Make contact with [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]].
+- [x] Help [[NPCs/Lars\|Lars]] rescue his daughter [[NPCs/Bess\|Bess]] from her kobold kidnappers.
+- [ ] Discover the identity of the [[NPCs/Unnamed Green Dragon\|green dragon]] and the meaning behind his exclamation, "**Asha'bellanar!**"
+
 # NPCs
 - [[NPCs/Rosene\|Madame Rosene]] and [[NPCs/Marlene\|Marlene]] at [[Locations/Driftwood Tavern\|Driftwood Tavern]], [[Locations/Blacklake District\|Blacklake District]], [[Locations/Neverwinter\|Neverwinter]]
 - [[NPCs/Lars\|Lars]] and [[NPCs/Bess\|Bess]] at [[Locations/Lars' Smithy\|Lars' Smithy]], [[Locations/Neverwinter Wood\|Neverwinter Wood]]
-- [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]] at [[Locations/Moonstone Mask\|Moonstone Mask]], [[Locations/Neverwinter\|Neverwinter]]
 - [[NPCs/Delius\|Delius]], knight interred at [[Locations/Delian's Tomb\|Delian's Tomb]], [[Locations/Neverwinter Wood\|Neverwinter Wood]], [[Locations/Neverwinter\|Neverwinter]]
 - [[NPCs/Unnamed Green Dragon\|Unnamed Green Dragon]] encountered at [[Locations/Delian's Tomb\|Delian's Tomb]], [[Locations/Neverwinter Wood\|Neverwinter Wood]], [[Locations/Neverwinter\|Neverwinter]]
+- [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]] at [[Locations/Moonstone Mask\|Moonstone Mask]], [[Locations/Neverwinter\|Neverwinter]]
 - Deities
 	- [[NPCs/Selûne\|Selûne]]
 	- [[NPCs/Maglubiyet\|Maglubiyet]]
