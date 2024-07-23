@@ -14,7 +14,7 @@ But our heroes were moved by his plight and resolved to help. They followed him 
 
 ![Kobold.webp|Kobold](/img/user/Assets/Kobold.webp)
 
-With swift and stealthy precision, they dispatched the kobolds at the gates and ventured inside. _In the sacrificial chamber, they were joined by [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]], who was hunting in the nearby forests. With his help,_ they made quick work of the remaining kobolds. As [[Characters/Bughuda “Huda” Qasai\|Huda]] approached the shaman standing there, he looked at her in terror and uttered the word **"Asha'bellanar!"** To their shock, he transformed into a [[NPCs/Unnamed Green Dragon\|green dragon]] and burst through the roof, escaping into the night sky.
+With swift and stealthy precision, they dispatched the kobolds at the gates and ventured inside. _In the sacrificial chamber, they were joined by [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]], who was hunting in the nearby forests. With his help,_ they made quick work of the remaining kobolds. As [[Characters/Bughuda “Huda” Qasai\|Huda]] approached the shaman standing there, he looked at her in terror and uttered the word **"Asha'bellanar!"** To their shock, he transformed into a [[NPCs/Unidentified green dragon\|green dragon]] and burst through the roof, escaping into the night sky.
 
 ![Goblin gathering.jpg|Goblin gathering](/img/user/Assets/Goblin%20gathering.jpg)
 
@@ -24,7 +24,7 @@ Triumphant, they returned to [[Locations/Lars' Smithy\|Lars' Smithy]] with the r
 
 ![Baron of Kilkirth bounty.png|Baron of Kilkirth bounty](/img/user/Assets/Baron%20of%20Kilkirth%20bounty.png)
 
-Taking their rewards, they retired to [[NPCs/Rosene\|Madame Rosene]]'s [[Locations/Driftwood Tavern\|Driftwood Tavern]] to celebrate. Amidst their victory, they couldn't shake the mystery of the dragon's sudden departure and the meaning of "**Asha'bellanar**." Learning from [[Characters/Luard Starwalker\|Luard]] and [[Characters/Torebrul “Tor” Drakechest\|Tor]], the words from the Draconic language loosely translate into "**The Ember Sovereign**" in Common language. They decided that they work well together and, since [[NPCs/Gundren Rockseeker\|Gundren]] has a job for them, they might need to stick together for a while. They decided to name themselves the [[Fellowships/Ember Knights\|Ember Knights]].
+Taking their rewards, they retired to [[NPCs/Rosene\|Madame Rosene]]'s [[Locations/Driftwood Tavern\|Driftwood Tavern]] to celebrate. Amidst their victory, they couldn't shake the mystery of the dragon's sudden departure and the meaning of "**Asha'bellanar**." Learning from [[Characters/Luard Starwalker\|Luard]] and [[Characters/Torebrul “Tor” Drakechest\|Tor]], the words from the Draconic language loosely translate into "[[Story Elements/Ember Sovereign\|The Ember Sovereign]]" in Common language. They decided that they work well together and, since [[NPCs/Gundren Rockseeker\|Gundren]] has a job for them, they might need to stick together for a while. They decided to name themselves the [[Fellowships/Ember Knights\|Ember Knights]].
 
 Their contemplation was abruptly ended when [[NPCs/Gundren Rockseeker\|Gundren]] burst into the tavern, exclaiming, "There you are! I have been waiting for you at the [[Locations/Moonstone Mask\|Moonstone Mask]] for two days!"
 

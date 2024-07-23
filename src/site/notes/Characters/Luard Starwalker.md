@@ -15,4 +15,4 @@ His shirt, an elegant blend of brown and gold, complements his robes, which are 
 Every aspect of his attire speaks to his mastery of magic and his connection to the ancient traditions of the high-elves, blending practicality with an undeniable sense of style and authority.
 
 **Race:** High Elf
-**Class:** Wizard 1
+**Class:** Wizard 2

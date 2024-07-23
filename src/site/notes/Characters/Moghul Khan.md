@@ -13,4 +13,4 @@ His silver armor, woven from moonlight, shimmers with gold filigree. At his side
 The spider symbol, inked in blood, binds him to vengeance. His old kith and kin fell victim to the arachnid menace in defense of Estadul, his home. Now, his new allies walk beside him, their camaraderie fragile yet resilient. His vow echoes: “I shall not fail again.”
 
 **Race:** Mountain Dwarf
-**Class:** Fighter 1
+**Class:** Fighter 2

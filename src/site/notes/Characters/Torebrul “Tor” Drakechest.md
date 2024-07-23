@@ -11,4 +11,4 @@ Against a dim blue landscape in the twilit hours of the evening stands a young p
 The amulet around his neck glows softly with lunar energy, symbolizing his devotion to [[NPCs/Selûne\|Selûne]]. In one hand, he grips a massive warhammer, its purple handle contrasting with the grey metallic head. His other hand steadies a deep black shield emblazoned with [[NPCs/Selûne\|Selûne]]'s symbol, both tools of protection and symbols of his faith. Behind him, the blurred outline of the temple of [[NPCs/Selûne\|Selûne]] hints at the sacred surroundings where he serves and draws his strength.
 
 **Race:** Custom Lineage (half-dwarf half-elf)
-**Class:** Cleric 1 (Twilight Domain)
+**Class:** Cleric 2 (Twilight Domain)
