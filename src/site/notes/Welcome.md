@@ -18,16 +18,20 @@ The brave **ADVENTURES OF THE EMBER KNIGHTS** are chronicled within.
 - [[Chapters/Chapter 2\|Chapter 2]]:  Arrival at Esson
 
 # Quests
-- [x] Make contact with [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]].
 - [x] Help [[NPCs/Lars\|Lars]] rescue his daughter [[NPCs/Bess\|Bess]] from her kobold kidnappers.
+- [ ] Transport and deliver a wagonload of essential provisions from [[Locations/Neverwinter\|Neverwinter]] to the town of [[Locations/Esson\|Esson]].
+	- [x] Find [[NPCs/Sildar Hallwinter\|Sildar Hallwinter]], and rescue him from his goblin captors [[NPCs/Yeemik\|Yeemik]] and his henchmen.
+	- [x] Exterminate [[Locations/Cragmaw Cave\|Cragmaw Cave]] of [[NPCs/Klarg\|Klarg]] and his minions.
+	- [x] Accompany [[NPCs/Sildar Hallwinter\|Sildar Hallwinter]] with the wagon to [[Locations/Esson\|Esson]].
+
+# Objectives
+- [x] Make contact with [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]].
 - [ ] Discover the identity of the [[NPCs/Unidentified green dragon\|green dragon]] and the meaning behind his exclamation, "**Asha'bellanar!**"
-- [x] Transport a wagonload of essential provisions from [[Locations/Neverwinter\|Neverwinter]] to the town of [[Locations/Esson\|Esson]].
-- [x] Find [[NPCs/Sildar Hallwinter\|Sildar Hallwinter]], and rescue him from his goblin captors [[NPCs/Yeemik\|Yeemik]] and his henchmen.
-- [x] Exterminate [[Locations/Cragmaw Cave\|Cragmaw Cave]] of [[NPCs/Klarg\|Klarg]] and his minions.
-- [ ] Deliver the wagon to [[NPCs/Sildar Hallwinter\|Sildar Hallwinter]] in [[Locations/Esson\|Esson]].
-- [ ] Find [[NPCs/Gundren Rockseeker\|Gundren]], and rescue him from [[NPCs/King Grol\|King Grol]].
-- [ ] Discover the identity of [[NPCs/Rusithed\|Rusithed]].
 - [ ] Discover the identity of the [[NPCs/Spider\|Spider]].
+- [ ] Discover the identity of [[NPCs/Rusithed\|Rusithed]] and the [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|goblins with elongated skulls]].
+- [ ] Find [[NPCs/Gundren Rockseeker\|Gundren]], and rescue him from [[NPCs/King Grol\|King Grol]].
+	- [ ] Investigate the [[Fellowships/Red Brands\|Red Brands]], their connection to the [[Fellowships/Cragmaws\|Cragmaws]], and then neutralize their threat.
+	- [ ] Meet with [[NPCs/Sister Garele\|Sister Garele]], [[NPCs/Allura Vilerial\|Allura Vilerial]], [[NPCs/Daran Edermath\|Daran Edermath]], and the [[Fellowships/Rockseeker brothers\|Rockseeker brothers]] to gather information about [[Locations/Cragmaw Castle\|Cragmaw Castle]] and seek volunteers to help mount [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]]'s rescue.
 
 # NPCs
 - [[NPCs/Rosene\|Madame Rosene]] and [[NPCs/Marlene\|Marlene]] at [[Locations/Driftwood Tavern\|Driftwood Tavern]], [[Locations/Blacklake District\|Blacklake District]], [[Locations/Neverwinter\|Neverwinter]]
