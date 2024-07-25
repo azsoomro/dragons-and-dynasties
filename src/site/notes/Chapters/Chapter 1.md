@@ -26,7 +26,7 @@ After learning this, the party executed [[NPCs/Yeemik\|Yeemik]] and tended to [[
 
 ![Sildar Hallwinter held at Cragmaw Hideout.webp|Sildar Hallwinter held at Cragmaw Hideout](/img/user/Assets/Sildar%20Hallwinter%20held%20at%20Cragmaw%20Hideout.webp)
 
-He warned them about a [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|strange goblin]] who whispered unsettling words ("You are not the one [[NPCs/Rusithed\|Rusithed]] wants.") to him, hinting at a deeper, darker plot. [[NPCs/Sildar Hallwinter\|Sildar]] suggested someone in [[Locations/Esson\|Esson]] might know the location of [[Locations/Cragmaw Castle\|Cragmaw Castle]]. He armed himself with a goblin blade and left, urging the party to clear the caves and confront [[NPCs/Klarg\|Klarg]] before meeting him in [[Locations/Esson\|Esson]]. With their resolve steeled, the [[Fellowships/Ember Knights\|Ember Knights]] prepared for the next phase of their perilous journey.
+He warned them about a [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|strange goblin]] who whispered unsettling words ("You are not the one [[NPCs/Ruxithid\|Ruxithid]] wants.") to him, hinting at a deeper, darker plot. [[NPCs/Sildar Hallwinter\|Sildar]] suggested someone in [[Locations/Esson\|Esson]] might know the location of [[Locations/Cragmaw Castle\|Cragmaw Castle]]. He armed himself with a goblin blade and left, urging the party to clear the caves and confront [[NPCs/Klarg\|Klarg]] before meeting him in [[Locations/Esson\|Esson]]. With their resolve steeled, the [[Fellowships/Ember Knights\|Ember Knights]] prepared for the next phase of their perilous journey.
 
 ## Quests
 

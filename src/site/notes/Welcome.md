@@ -28,7 +28,7 @@ The brave **ADVENTURES OF THE EMBER KNIGHTS** are chronicled within.
 - [x] Make contact with [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]].
 - [ ] Discover the identity of the [[NPCs/Unidentified green dragon\|green dragon]] and the meaning behind his exclamation, "**Asha'bellanar!**"
 - [ ] Discover the identity of the [[NPCs/Spider\|Spider]].
-- [ ] Discover the identity of [[NPCs/Rusithed\|Rusithed]] and the [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|goblins with elongated skulls]].
+- [ ] Discover the identity of [[NPCs/Ruxithid\|Ruxithid]] and the [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|goblins with elongated skulls]].
 - [ ] Find [[NPCs/Gundren Rockseeker\|Gundren]], and rescue him from [[NPCs/King Grol\|King Grol]].
 	- [ ] Investigate the [[Fellowships/Red Brands\|Red Brands]], their connection to the [[Fellowships/Cragmaws\|Cragmaws]], and then neutralize their threat.
 	- [ ] Meet with [[NPCs/Sister Garele\|Sister Garele]], [[NPCs/Allura Vilerial\|Allura Vilerial]], [[NPCs/Daran Edermath\|Daran Edermath]], and the [[Fellowships/Rockseeker brothers\|Rockseeker brothers]] to gather information about [[Locations/Cragmaw Castle\|Cragmaw Castle]] and seek volunteers to help mount [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]]'s rescue.
@@ -46,12 +46,13 @@ The brave **ADVENTURES OF THE EMBER KNIGHTS** are chronicled within.
 - [[NPCs/Unidentified masked men with spider symbols\|Unidentified masked men with spider symbols]], antagonists in the life stories of [[Characters/Luard Starwalker\|Luard Starwalker]] and [[Characters/Moghul Khan\|Moghul Khan]]
 - [[NPCs/Klarg\|Klarg]], [[NPCs/Yeemik\|Yeemik]], and [[NPCs/Pickles\|Pickles]], goblinoids encountered in [[Locations/Cragmaw Cave\|Cragmaw Cave]]
 - [[NPCs/King Grol\|King Grol]], leader of all goblinoids
-- [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|Unidentified goblins with elongated skulls and glowing green weapons]], who occasionally joined the [[Cragmaws
-- [[NPCs/Iarno Albrek\|Iarno Albrek]], member of the [[Fellowships/Lord's Alliance\|Lord's Alliance]]]]
-- [[NPCs/Rusithed\|Rusithed]], an unknown entity involved in [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]]'s disappearance
+- [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|Unidentified goblins with elongated skulls and glowing green weapons]], who occasionally joined the [[Fellowships/Cragmaws\|Cragmaws]]
+- [[NPCs/Iarno Albrek\|Iarno Albrek]], member of the [[Fellowships/Lord's Alliance\|Lord's Alliance]]
+- [[NPCs/Ruxithid\|Ruxithid]], an unknown entity involved in [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]]'s disappearance
 - [[NPCs/Nundro Rockseeker\|Nundro Rockseeker]] and [[NPCs/Thardin Rockseeker\|Thardin Rockseeker]], brothers of [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]]
 - [[NPCs/Elmina Barthen\|Elmina Barthen]] of [[Locations/Barthen's Provisions\|Barthen's Provisions]], [[Locations/Esson\|Esson]]
-- [[NPCs/Sister Garele\|Sister Garele]] of the [[Locations/Shrine of Luck\|Shrine of Luck]], [[Locations/Esson\|Esson]], and her friend [[NPCs/Allura Vilerial\|Allura Vilerial]]
+- [[NPCs/Sister Garele\|Sister Garele]] of the [[Locations/Shrine of Luck\|Shrine of Luck]], [[Locations/Esson\|Esson]]
+- [[NPCs/Allura Vilerial\|Allura Vilerial]] of [[Locations/Allura's Tower\|Allura's Tower]], [[Locations/Esson\|Esson]]
 - [[NPCs/Daran Edermath\|Daran Edermath]] of [[Locations/Edermath Orchard\|Edermath Orchard]], [[Locations/Esson\|Esson]]
 - [[NPCs/Linene Greywind\|Linene Greywind]] of [[Locations/Lionshield Coaster\|Lionshield Coaster]]. [[Locations/Esson\|Esson]]
 - [[NPCs/Toblin\|Toblin]] of [[Locations/Stonehill Inn\|Stonehill Inn]], [[Locations/Esson\|Esson]]

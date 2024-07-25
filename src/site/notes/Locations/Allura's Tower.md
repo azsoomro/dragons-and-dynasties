@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/locations/allura-s-tower/"}
 ---
 
-A wizard's tower within the city of [[Locations/Esson\|Esson]]. It has a single spire.
-
-> Any connection to [[NPCs/Allura Vilerial\|Allura Vilerial]]?
+A wizard's tower within the city of [[Locations/Esson\|Esson]]. It has a single spire. It is inhabited by [[NPCs/Allura Vilerial\|Allura Vilerial]].
 
 It is immediately to the west of [[Locations/Harbin's Keep\|Harbin's Keep]].
 
