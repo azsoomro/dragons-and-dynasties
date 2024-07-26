@@ -6,7 +6,7 @@
 
 ![Luard Starwalker.webp|Luard Starwalker](/img/user/Assets/Luard%20Starwalker.webp)
 
-The high-elf wizard, stands with an aura of ethereal elegance. His snow-white hair cascades like a waterfall of pure silk, framing a face marked by deep blue eyes that shimmer with the intensity of a stormy sea. His healthy white skin-tone glows with an almost otherworldly light, enhancing his serene yet formidable presence.
+The high-elf wizard stands with an aura of ethereal elegance. His snow-white hair cascades like a waterfall of pure silk, framing a face marked by deep blue eyes that shimmer with the intensity of a stormy sea. His healthy white skin-tone glows with an almost otherworldly light, enhancing his serene yet formidable presence.
 
 He is clad in impeccably tailored white pants, tucked into boots that weave together the rich hues of brown, gold, and blue. These boots, sturdy yet stylish, are perfect for both the rugged terrain of his journeys and the grand halls of magical academia. Atop his head sits a wizard's hat of gold-brown, its wide brim shadowing his intense gaze.
 
