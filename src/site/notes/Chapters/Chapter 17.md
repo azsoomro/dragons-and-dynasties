@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/chapters/chapter-17/"}
+---
+
+# Return to Esson
+
+Arriving in the quiet town of Esson late at night, the party set out to rest at the Sleeping Giant Tap House, only to find it closed. Taking refuge in a barn instead, Tor cast a spell to shield them from prying eyes, and before settling down, Luard cast a spell on himself that made him appear lifeless. During the night, Tor awoke in alarm, finding Luard seemingly dead. His frantic attempts to revive him roused the rest of the party. It took a lot of shaking, punching, and yelling before Luard finally awoke, revealing that he’d cast the spell himself as a test. Though the party was not amused, he explained he wanted to see if his Luna would appear in his hour of need. Huda scolded him for the reckless act, and they all settled down to rest again.
+
+In the morning, Tor tried to sneak out to meet Grista, but his protective spell faded, waking the others. Together, they headed to the Tap House, where Grista welcomed them with morning ales and tales of their adventures. They finally met the elusive bartender, Wheel-of-Fortune, who took a quick liking to Luard. When he brushed off her advances, she mentioned he looked familiar, like another elf she’d met recently in Neverwinter. Luard’s worry grew when she confirmed it was Luna. Meanwhile, Wheel-of-Fortune continued serving their drinks, tapping each one on a smooth black stone, explaining it was the “eye” of the Sleeping Giant and tapping it was a local tradition for good luck.
+
+After breakfast, the party visited the Esson Miner’s Exchange to meet Halia, where they reported on their recent mission and the discovery of Glasstaff’s alliance with the mysterious Spider. Halia rewarded them as promised, acknowledging their bravery. Their next stop was The Invulnerable Vagrant, where they met Kermit Sol to trade and purchase supplies. Afterward, they headed to the Venatores, where they met a friendly orc named Jack Mihoff. Huda turned in owlbear parts she had collected and received her reward, accepting three new job offers from Jack.
+
+When Huda asked about her brother Sten, Jack informed her he was recovering upstairs. They went to see Sten, who lay badly injured, his left side burned and missing a hand. He recounted an ambush by thugs wearing web-patterned clothing and a red-robed mage, all targeting Huda. Sten fought fiercely to keep them from finding her but blacked out after losing his hand. Shaken, Huda swore vengeance against the Arachna Cult for harming her family.
+
+Their final stops led them to Allura’s Tower, where Luard eagerly entered the library to study new spells, and then to Harbin’s Keep. There, they arrived just in time to see Harbin in conference with mages from the Eclipse Concord. While Tor and Huda pondered the mages’ presence, Tor’s father, Gimli, greeted them warmly. When Huda introduced herself and mentioned her father’s name, Gimli’s eyes lit up, saying, “Ah, you’re Grognar’s daughter, are ya?” leaving both Tor and Huda startled by the unexpected connection.

@@ -14,9 +14,11 @@ But our heroes were moved by his plight and resolved to help. They followed him 
 
 ![Kobold.webp|Kobold](/img/user/Assets/Kobold.webp)
 
-With swift and stealthy precision, they dispatched the kobolds at the gates and ventured inside. _In the sacrificial chamber, they were joined by [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]], who was hunting in the nearby forests. With his help,_ they made quick work of the remaining kobolds. As [[Characters/Bughuda “Huda” Qasai\|Huda]] approached the shaman standing there, he looked at her in terror and uttered the word **"Asha'bellanar!"** To their shock, he transformed into a [[NPCs/Unidentified green dragon\|green dragon]] and burst through the roof, escaping into the night sky.
+With swift and stealthy precision, they dispatched the kobolds at the gates and ventured inside. _In the sacrificial chamber, they were joined by [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]], who was hunting in the nearby forests. With his help,_ they made quick work of the goblins inside who were partaking in a ritual. 
 
 ![Goblin gathering.jpg|Goblin gathering](/img/user/Assets/Goblin%20gathering.jpg)
+
+As [[Characters/Bughuda “Huda” Qasai\|Huda]] menacingly approached the shaman officiating the ritual, he looked at her in terror and uttered the word **"Asha'bellanar!"** To their shock, he transformed into a [[NPCs/Unidentified green dragon\|green dragon]] and burst through the roof, escaping into the night sky.
 
 Left to ponder this unexpected turn of events, they tended to their wounds and rescued the girl. _[[Characters/Zyluxias Relmaur\|Zyluxias]] informed others that there was another kobold patrol that the adventurers knew nothing about, and he had singlehandedly eliminated that threat._ After cleaning the tomb, they found a chest, which they offered to Delian's statue. Their act of reverence granted them the status of [[Fellowships/Knights of the Delian Order\|Knights of the Delian Order]], leading them to Delian’s hidden treasure.
 
@@ -28,4 +30,4 @@ Taking their rewards, they retired to [[NPCs/Rosene\|Madame Rosene]]'s [[Locati
 
 Their contemplation was abruptly ended when [[NPCs/Gundren Rockseeker\|Gundren]] burst into the tavern, exclaiming, "There you are! I have been waiting for you at the [[Locations/Moonstone Mask\|Moonstone Mask]] for two days!"
 
-**NOTE:** Portions in _italics_ were retconned into the narrative when [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]], played by **Crimson**, joined the campaign.
+**NOTE:** Portions in _italics_ were retconned into the narrative when [[Characters/Zyluxias Relmaur\|Zyluxias Relmaur]] joined the campaign.

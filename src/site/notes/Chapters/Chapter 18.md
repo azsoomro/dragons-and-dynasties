@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/chapters/chapter-18/"}
+---
+
+# Coincidence or Fate?
+
+The Sovereign's Keep held both revelations and mysteries for the party. Huda, Mogul, and Tor reunited with Tor’s father, Gimli, who shared a surprising connection to Huda’s father, Grognar, and warmly greeted his long-lost son. In the grand hall, Mogul’s parents, Durin and Rala, showered him with pride and concern—Durin impressed by Mogul’s strength, and Rala worried about the toll it might take. Their presence, along with Gimli’s, was explained as part of a mission to secure a trade agreement with Esson. Amid endearing exchanges, the party recounted their victory over a dragon, earning praise from both Gimli and Durin. Yet, beneath the warm reunions, deeper questions lingered—about rings the party carried, their mothers, and the uncanny connections binding their fates. Private conversations with parents yielded vague answers, but the wary glances shared between Durin and Gimli hinted at secrets left unsaid.
+
+Back at Allura’s Tower, Zyluxias and Luard found themselves in the company of Azvameth, who mistook Zyluxias’ spear for the cursed weapon he once wielded. Upon realizing it was gone, she revealed how she had deduced the curse from his transformations and confirmed it through Allura. Meanwhile, Azvameth passed along a spellbook to Luard, retrieved at Allura’s request. The book’s powerful enchantments opened new possibilities. As the siblings debated their shared heritage—Azvameth dismissing the idea that their mother was a dragon—their bond was evident through playful banter. When asked about Sten, Azvameth explained she had found him near death and nursed him back to health, adding another layer of intrigue to the party’s journey.
+
+At Harbin’s Keep, the threads of destiny grew even tighter. Tor grappled with the startling coincidences tying their parents’ pasts to their present. Conversations with Gimli and Durin uncovered little about their mothers, with Gimli admitting that memories of Tor’s mother were too painful to revisit. Huda’s ring, which had changed shape and color, baffled Gimli, who confessed he lacked the magical knowledge to explain it. Durin’s reaction to Mogul’s cursed blade was swift—he urged its immediate disposal. Yet his craftsmanship shone through as he revealed the origins of Flametongue and mentioned a sibling weapon, an ice brand, which connected the party to Azvameth’s sword.
+
+After regrouping, the party met with Harbin Wester and Gimli in the council chamber to plan the swift rescue of Gundren Rockseeker from Cragmaw Castle. With supplies restocked and a strategy in place, they ventured into the Neverwinter Forest. Disguised as Redbrand bandits, the party infiltrated the castle and began eliminating goblins room by room. But as their deception unraveled, chaos erupted, and they soon found themselves facing a room filled with goblins and ogres.
+
+Now, the party stands on the brink of battle. Will they survive the overwhelming odds, or will Cragmaw Castle be their final resting place? Their fate unfolds next session.

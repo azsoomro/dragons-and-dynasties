@@ -15,18 +15,44 @@ The brave **ADVENTURES OF THE EMBER KNIGHTS** are chronicled within.
 # Chapters
 - [[Chapters/Chapter 0\|Chapter 0]]: The Ember Knights Origins
 - [[Chapters/Chapter 1\|Chapter 1]]: A Dangerous Journey
-- [[Chapters/Chapter 2\|Chapter 2]]:  Arrival at Esson
+- [[Chapters/Chapter 2\|Chapter 2]]: Arrival at Esson
+- [[Chapters/Chapter 3\|Chapter 3]]: Troubles in Esson
+- [[Chapters/Chapter 4\|Chapter 4]]: The Wizard, the Spider, and the Hideout
+- [[Chapters/Chapter 5\|Chapter 5]]: A Moment of Rest
+- [[Chapters/Chapter 6\|Chapter 6]]: Allura's Tower
+- [[Chapters/Chapter 7\|Chapter 7]]: The Brother, the Sister, and the Ring
+- [[Chapters/Chapter 8\|Chapter 8]]: R.I.P. Pickles 2024
+- [[Chapters/Chapter 9\|Chapter 9]]: The Secret of Coneberry
+- [[Chapters/Chapter 10\|Chapter 10]]: The Threat Below
+- [[Chapters/Chapter 11\|Chapter 11]]: Arrival at Thundertree Ruins
+- [[Chapters/Chapter 12\|Chapter 12]]: The Druid, the Dragon, and the Warlock
+- [[Chapters/Chapter 13\|Chapter 13]]: The Beach Episode
+- [[Chapters/Chapter 14\|Chapter 14]]: Zyluxias the Ember Sovereign?
+- [[Chapters/Chapter 15\|Chapter 15]]: Cleaning the Ruins of Thundertree
+- [[Chapters/Chapter 16\|Chapter 16]]: Enter the Arachna
+- [[Chapters/Chapter 17\|Chapter 17]]: Return to Esson
+- [[Chapters/Chapter 18\|Chapter 18]]: Coincidence or Fate
+- [[Chapters/Chapter 19\|Chapter 19]]: Rockseeker Retrieved
+- [[Chapters/Chapter 20\|Chapter 20]]: The Black Spider at Last
+- [[Chapters/Chapter 21\|Chapter 21]]: The Lost Mines of Esson
+- [[Chapters/Chapter 22\|Chapter 22]]: The Fall of the Spider
+- [[Chapters/Chapter 23\|Chapter 23]]: The Dream to Wake to & the Eyes of Death
+- [[Chapters/Chapter 24\|Chapter 24]]: Wave Echo Caves
+- [[Chapters/Chapter 25\|Chapter 25]]: Esson under Fire
+- [[Chapters/Chapter 26\|Chapter 26]]: Paths of Peril
+- [[Chapters/Chapter 27\|Chapter 27]]: Zorzula's Rest
+- [[Chapters/Chapter 28\|Chapter 28]]: Indigo Sanctum Showdown
 
 # Quests
 - [x] Help [[NPCs/Lars\|Lars]] rescue his daughter [[NPCs/Bess\|Bess]] from her kobold kidnappers.
-- [ ] Transport and deliver a wagonload of essential provisions from [[Locations/Neverwinter\|Neverwinter]] to the town of [[Locations/Esson\|Esson]].
+- [x] Transport and deliver a wagonload of essential provisions from [[Locations/Neverwinter\|Neverwinter]] to the town of [[Locations/Esson\|Esson]].
 	- [x] Find [[NPCs/Sildar Hallwinter\|Sildar Hallwinter]], and rescue him from his goblin captors [[NPCs/Yeemik\|Yeemik]] and his henchmen.
 	- [x] Exterminate [[Locations/Cragmaw Cave\|Cragmaw Cave]] of [[NPCs/Klarg\|Klarg]] and his minions.
 	- [x] Accompany [[NPCs/Sildar Hallwinter\|Sildar Hallwinter]] with the wagon to [[Locations/Esson\|Esson]].
 
 # Objectives
 - [x] Make contact with [[NPCs/Gundren Rockseeker\|Gundren Rockseeker]].
-- [ ] Discover the identity of the [[NPCs/Unidentified green dragon\|green dragon]] and the meaning behind his exclamation, "**Asha'bellanar!**"
+- [ ] Discover the identity of the [[NPCs/Unidentified green dragon\|green dragon]] and the meaning behind his exclamation, **"Asha'bellanar!"**
 - [x] Discover the identity of the [[NPCs/Spider\|Spider]].
 - [x] Discover the identity of [[NPCs/Ruxithid\|Ruxithid]] and the [[NPCs/Unidentified goblins with elongated skulls and glowing green weapons\|goblins with elongated skulls]].
 - [x] Find [[NPCs/Gundren Rockseeker\|Gundren]], and rescue him from [[NPCs/King Grol\|King Grol]].
