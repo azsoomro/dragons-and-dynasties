@@ -94,7 +94,7 @@ The brave **ADVENTURES OF THE EMBER KNIGHTS** are chronicled within.
 - [[Fellowships/Knights of the Delian Order\|Knights of the Delian Order]] interred at [[Locations/Delian's Tomb\|Delian's Tomb]]
 - [[Fellowships/Lord's Alliance\|Lord's Alliance]] based in [[Locations/Esson\|Esson]]
 - [[Fellowships/Church of Tyr\|Church of Tyr]], a religious order
-- [[Fellowships/Golden dwarves\|Golden dwarves]], the inhabitants of [[Locations/Earthheart\|Earthheart]]
+- [[Fellowships/Golden dwarves\|Golden dwarves]], the inhabitants of [[Locations/Eartheart\|Eartheart]]
 - [[Fellowships/Cragmaws\|Cragmaws]], a coalition of goblinoids led by [[NPCs/King Grol\|King Grol]]
 - [[Fellowships/Rockseeker brothers\|Rockseeker brothers]]
 - [[Fellowships/Red Brands\|Red Brands]] of [[Locations/Esson\|Esson]]
@@ -142,7 +142,7 @@ The brave **ADVENTURES OF THE EMBER KNIGHTS** are chronicled within.
 	- [[Locations/Suzail\|Suzail]]
 - [[Locations/Estadul\|Estadul]]
 - [[Locations/Emp'rss Mrquet\|Emp'rss Mrquet]]
-- [[Locations/Earthheart\|Earthheart]]
+- [[Locations/Eartheart\|Eartheart]]
 - [[Locations/Prime Material Plane\|Prime Material Plane]]
 	- [[Locations/Realmspace\|Realmspace]]
 		- [[Locations/Toril\|Toril]]
